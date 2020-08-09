@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Arafat. I am a Python Programmer with a lot of interest in areas such as machine learning, neural networks, deep learning and other cool stuff
+Explore my repositories and drop a ⭐ if you like any one! 😉
